@@ -12,9 +12,8 @@ This service imports data from a CSV spreadsheet, transforms it with custom code
 
 What do you need?
 
-* Java 11 or later
-* Spring Boot
-* Maven 3.2+
+* [Java 11](https://www.oracle.com/java/technologies/downloads/) or later
+* [Maven 3.2+](https://maven.apache.org/download.cgi)
 
 ### Installing
 
